@@ -1,0 +1,85 @@
+Run 1 - 
+
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+1
+This will: Print stored values alongside mean, sum, and median
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+2
+This will: Print sorted values in descending order.
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+3
+This will: Save data and stats to output file.
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+
+Run 2 - 
+
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+1
+This will: Print stored values alongside mean, sum, and median
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+2
+This will: Print sorted values in descending order.
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+3
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+
+Run 3 -
+
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+1
+This will: Print stored values alongside mean, sum, and median
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+2
+This will: Print sorted values in descending order.
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+3
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+4
+Invalid input
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+5
+Invalid input
+Please select an option:
+1 - Print stored values alongside mean, sum, and median.
+2 - Print sorted values in descending order.
+3 - Save data and stats to output file.
+
